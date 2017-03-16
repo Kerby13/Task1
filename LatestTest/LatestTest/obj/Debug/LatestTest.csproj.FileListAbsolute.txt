@@ -1,0 +1,9 @@
+C:\Users\Никита\Desktop\LatestTest\LatestTest\bin\Debug\LatestTest.exe.config
+C:\Users\Никита\Desktop\LatestTest\LatestTest\obj\Debug\LatestTest.Form1.resources
+C:\Users\Никита\Desktop\LatestTest\LatestTest\obj\Debug\LatestTest.Properties.Resources.resources
+C:\Users\Никита\Desktop\LatestTest\LatestTest\obj\Debug\LatestTest.csproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\LatestTest\LatestTest\bin\Debug\LatestTest.exe
+C:\Users\Никита\Desktop\LatestTest\LatestTest\bin\Debug\LatestTest.pdb
+C:\Users\Никита\Desktop\LatestTest\LatestTest\obj\Debug\LatestTest.exe
+C:\Users\Никита\Desktop\LatestTest\LatestTest\obj\Debug\LatestTest.pdb
+C:\Users\Никита\Desktop\LatestTest\LatestTest\obj\Debug\LatestTest.csprojResolveAssemblyReference.cache
